@@ -1,0 +1,1 @@
+informationMessage = "Hello , this is small casino bot for slot game.\nYou just need to make a bet and start play.\n🍎🍎🍎 - 1.5x\n🍉🍉🍉 - 1.7x\n🍇🍇🍇 - 2x\n🍊🍊🍊 - 2.5x\n🍋🍋🍋 - 5x\n🍒🍒🍒 - 7x"
